@@ -3,7 +3,7 @@
 # Github
 In this GitHub there is a shell script that counts the amount of occurences of the article "de" in the Dutch Wikipedia page of the Rijksuniversiteit Groningen (https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen). It is named de_counter.sh. 
 
-The results of the script are that there are 311 occurences of the article "de".
+The output of the script is put in the results text file.
 
 # Script:
 For the script to be able to run, cURL has to be installed. To install it in a Linux terminal, run the code: sudo apt install curl
