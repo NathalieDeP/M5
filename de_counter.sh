@@ -1,3 +1,5 @@
+#!bin/bash
+
 input=https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen
 
 RESULT=`curl -s $input | grep -iow 'de' | wc -l`
